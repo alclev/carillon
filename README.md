@@ -1,7 +1,5 @@
 # Carillon README.md
 
-![Science Center Carillon Renovation](path_to_image_file.jpg)
-
 ## Project Overview
 
 This project aims to renovate an old carillon instrument at the Science Center by integrating Arduino and ESP32 code. The carillon instrument is an important part of the Science Center's historical exhibit, and this project seeks to modernize it by incorporating microcontrollers and touch-enabled features. With these improvements, visitors will have an interactive and engaging experience with the carillon.
