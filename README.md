@@ -19,13 +19,13 @@ This project aims to renovate an old carillon instrument at the Science Center b
 
 The primary goals of this project are as follows:
 
-1. **Integrate Arduino and ESP32 Code**: Combine Arduino and ESP32 code to enable communication between the carillon instrument and the microcontrollers.
+1. **Integrate Arduino and ESP32 Code**: Combine Arduino and ESP32 code to enable communication between the Carillon instrument and the microcontrollers.
 
-2. **Implement Touch Controls**: Incorporate touch functionality into the carillon instrument to allow visitors to interact with the instrument through a touch-enabled display.
+2. **Implement Touch Controls**: Incorporate touch functionality into the Carillon instrument to allow visitors to interact with the instrument through a touch-enabled display.
 
 3. **Improve User Experience**: Enhance the user experience by providing an intuitive and user-friendly interface for controlling the carillon.
 
-4. **Modernize the Carillon**: Renovate the carillon instrument to blend historical significance with modern technology, making it more appealing to visitors of all ages.
+4. **Modernize the Carillon**: Renovate the Carillon instrument to blend historical significance with modern technology, making it more appealing to visitors of all ages.
 
 ## Hardware Requirements
 
@@ -51,14 +51,14 @@ Ensure you have the following software components installed:
 
 ## Installation and Setup
 
-...
+Detailed documentation on how to set up the Arduino environment for ESP-32 is here (https://wiki.makerfabs.com/ESP32_S3_SPI_3.5_TFT_with_Touch.html)
 
 ## Usage
 
 ...
 ## Contributing
 
-We welcome contributions to enhance the carillon renovation project. If you have ideas, improvements, or bug fixes, feel free to submit a pull request. Please follow the existing coding style and provide clear commit messages for effective collaboration.
+We welcome contributions to enhance the Carillon renovation project. If you have ideas, improvements, or bug fixes, feel free to submit a pull request. Please follow the existing coding style and provide clear commit messages for effective collaboration.
 
 ## License
 
